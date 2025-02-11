@@ -91,12 +91,6 @@
  How can you quickly access information on average fares for each city?
 
  
- *Trigger for Ride Status Change Logging*
-
- 
- How can you track changes in ride statuses for auditing purposes?
-
- 
  *View for Driver Performance Metrics*
 
  
